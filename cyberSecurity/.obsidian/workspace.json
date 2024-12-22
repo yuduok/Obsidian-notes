@@ -4,39 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "86b95b7d9b779b42",
-        "type": "tabs",
+        "id": "98826ef32aa6d1a3",
+        "type": "split",
         "children": [
           {
-            "id": "efffdf31ab75e9a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "目录.md",
-                "mode": "source",
-                "source": false
+            "id": "86b95b7d9b779b42",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "efffdf31ab75e9a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "目录.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "目录"
+                }
               },
-              "icon": "lucide-file",
-              "title": "目录"
-            }
+              {
+                "id": "6531c83eab83087e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "安全技术基础.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "安全技术基础"
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
           },
           {
-            "id": "6de627bfe86b5108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "局域网网络攻击与防御技术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "局域网网络攻击与防御技术"
-            }
+            "id": "10eac2575a7cdffb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f049b53a73d8276b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/yudu/Documents/Obsidian-notes/cyberSecurity",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 71,
+                        "data": "/Users/yudu/.zshrc:4: command not found: jenv\r\n/Users/yudu/.zshrc:5: command not found: thefuck\r\n(base) yudu@Mac cyberSecurity % git commit -am \"update\"",
+                        "rows": 33
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：zsh"
+                }
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "局域网网络攻击与防御技术.md",
+                "file": "安全技术基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "局域网网络攻击与防御技术 的反向链接列表"
+              "title": "安全技术基础 的反向链接列表"
             }
           },
           {
@@ -127,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "局域网网络攻击与防御技术.md",
+                "file": "安全技术基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "局域网网络攻击与防御技术 的出链列表"
+              "title": "安全技术基础 的出链列表"
             }
           },
           {
@@ -154,30 +210,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "局域网网络攻击与防御技术.md"
+                "file": "安全技术基础.md"
               },
               "icon": "lucide-list",
-              "title": "局域网网络攻击与防御技术 的大纲"
+              "title": "安全技术基础 的大纲"
             }
           },
           {
-            "id": "6163e6b8c3857b70",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "23edcf7697ed1629",
+            "id": "484f62f3fbcc84e3",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -196,23 +242,25 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "6163e6b8c3857b70",
+  "active": "f049b53a73d8276b",
   "lastOpenFiles": [
+    "安全技术基础.md",
     "目录.md",
     "局域网网络攻击与防御技术.md",
+    "未命名.md",
+    "images/Pasted image 20241221202301.png",
+    "恶意代码技术.md",
+    "images",
     "网络安全概论.md",
     "虚拟专用网络VPN.md",
     "未命名 1.md",
-    "未命名.md",
-    "恶意代码技术.md",
     "入侵检测系统.md",
     "防火墙技术.md",
     "网络安全协议.md",
     "无线局域网安全技术.md",
-    "安全技术基础.md",
     "互联网安全技术.md",
     "Web攻击与防御技术.md",
     "网络空间安全",
