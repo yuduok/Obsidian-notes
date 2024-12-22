@@ -79,7 +79,7 @@
                       },
                       "serial": {
                         "columns": 71,
-                        "data": "/Users/yudu/.zshrc:4: command not found: jenv\r\n/Users/yudu/.zshrc:5: command not found: thefuck\r\n(base) yudu@Mac cyberSecurity % git commit -am \"update\"",
+                        "data": "/Users/yudu/.zshrc:4: command not found: jenv\r\n/Users/yudu/.zshrc:5: command not found: thefuck\r\n(base) yudu@Mac cyberSecurity % git commit -am \"update\"\r\n[main e6ef3d6] update\r\n 10 files changed, 229 insertions(+), 1096 deletions(-)\r\n delete mode 100644 cyberSecurity/.obsidian/plugins/obsidian-git/data.json\r\n delete mode 100644 cyberSecurity/.obsidian/plugins/obsidian-git/main.js\r\n delete mode 100644 cyberSecurity/.obsidian/plugins/obsidian-git/manifest.json\r\n delete mode 100755 cyberSecurity/.obsidian/plugins/obsidian-git/obsidian_askpass.sh\r\n delete mode 100644 cyberSecurity/.obsidian/plugins/obsidian-git/styles.css\r\n(base) yudu@Mac cyberSecurity % git push\r\nEnumerating objects: 19, done.\r\nCounting objects: 100% (19/19), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (9/9), done.\r\nWriting objects: 100% (10/10), 3.73 KiB | 3.73 MiB/s, done.\r\nTotal 10 (delta 6), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (6/6), completed with 6 local objects.\r\nTo https://github.com/yuduok/Obsidian-notes.git\r\n   05508a9..e6ef3d6  main -> main\r\n(base) yudu@Mac cyberSecurity % ",
                         "rows": 33
                       }
                     }
