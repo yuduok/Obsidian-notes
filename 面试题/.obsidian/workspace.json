@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "817ffd0cc27bb22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a66fd855a172e726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8417cf3809b7a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nextjs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nextjs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5703632ee64f7a45",
+    "type": "split",
+    "children": [
+      {
+        "id": "009f460e6038ffb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8edb55e90e681763",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ab20a47924f54722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "033bb309969e3407",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06e31472204b609c",
+    "type": "split",
+    "children": [
+      {
+        "id": "de5354dde217ef6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46096d6c5709d96a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "es.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "es 的反向链接列表"
+            }
+          },
+          {
+            "id": "f982e36d95736ea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "es.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "es 的出链列表"
+            }
+          },
+          {
+            "id": "ca70f43dd3f5d54a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "86430868f5ba479a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "es.md"
+              },
+              "icon": "lucide-list",
+              "title": "es 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "terminal:Open terminal": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d8417cf3809b7a72",
+  "lastOpenFiles": [
+    "react.md",
+    "nextjs.md",
+    "network.md",
+    "js.md",
+    "es.md",
+    "vue.md"
+  ]
+}
