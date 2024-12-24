@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "9f39ff77e4e7557a",
+        "id": "b7aa57b8cf5bd9e9",
         "type": "tabs",
         "children": [
           {
-            "id": "60129d6cf4bb9ece",
+            "id": "aaa803f5f27cdf20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "无线局域网安全技术.md",
+                "file": "目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无线局域网安全技术"
+              "title": "目录"
+            }
+          },
+          {
+            "id": "236c757777d8765a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web攻击与防御技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web攻击与防御技术"
+            }
+          },
+          {
+            "id": "c66e169cdc03a1df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XSS攻击.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XSS攻击"
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安全技术基础.md",
+                "file": "XSS攻击.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "安全技术基础 的反向链接列表"
+              "title": "XSS攻击 的反向链接列表"
             }
           },
           {
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安全技术基础.md",
+                "file": "XSS攻击.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "安全技术基础 的出链列表"
+              "title": "XSS攻击 的出链列表"
             }
           },
           {
@@ -140,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安全技术基础.md"
+                "file": "XSS攻击.md"
               },
               "icon": "lucide-list",
-              "title": "安全技术基础 的大纲"
+              "title": "XSS攻击 的大纲"
             }
           },
           {
@@ -175,20 +204,31 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "00ad381bf0fe98e5",
+  "active": "c66e169cdc03a1df",
   "lastOpenFiles": [
-    "images/Pasted image 20241223213658.png",
-    "网络安全协议.md",
-    "无线局域网安全技术.md",
     "Web攻击与防御技术.md",
+    "XSS攻击.md",
+    "SQL注入攻击.md",
+    "目录.md",
+    "802.11i的鉴别机制802.1x.md",
+    "无线局域网安全技术.md",
+    "局域网网络攻击与防御技术.md",
+    "WPA.md",
+    "802.11i加密机制.md",
+    "有线等效保密协议WEP.md",
+    "网络安全协议.md",
+    "IPSEC协议分析.md",
+    "TLS协议分析.md",
+    "安全技术基础.md",
+    "密钥交换算法.md",
+    "非对称密码.md",
+    "对称密码.md",
+    "网络安全概论.md",
+    "images/Pasted image 20241223213658.png",
     "互联网安全技术.md",
     "入侵检测系统.md",
-    "安全技术基础.md",
-    "局域网网络攻击与防御技术.md",
     "恶意代码技术.md",
-    "目录.md",
     "虚拟专用网络VPN.md",
-    "网络安全概论.md",
     "防火墙技术.md",
     "未命名.canvas",
     "未命名 1.canvas",
@@ -198,7 +238,6 @@
     "images/Pasted image 20241222221358.png",
     "images/Pasted image 20241221202301.png",
     "Pasted image 20241222232234.png",
-    "未命名.md",
     "images",
     "未命名 1.md",
     "网络空间安全",
