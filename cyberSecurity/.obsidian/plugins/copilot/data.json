@@ -76,18 +76,8 @@
       "isEmbeddingModel": false
     },
     {
-      "name": "chatgpt-4o-latest",
-      "provider": "3rd party (openai-format)",
-      "baseUrl": "http://154.21.200.42:3000/v1",
-      "apiKey": "sk-FKcRZpNiyyGIANep0fB3F516E9114e0984Da797065Ac570e",
-      "enabled": true,
-      "isBuiltIn": false,
-      "enableCors": false,
-      "isEmbeddingModel": false
-    },
-    {
       "name": "o1-preview",
-      "provider": "3rd party (openai-format)",
+      "provider": "openai",
       "baseUrl": "http://154.21.200.42:3000/v1",
       "apiKey": "sk-FKcRZpNiyyGIANep0fB3F516E9114e0984Da797065Ac570e",
       "enabled": true,
