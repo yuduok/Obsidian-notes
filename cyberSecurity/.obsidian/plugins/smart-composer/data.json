@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "openAIApiKey": "",
+  "anthropicApiKey": "",
+  "geminiApiKey": "AIzaSyCACCBlfpbzYM9iLdhDOb3WRUSnkMvyB1Q",
+  "groqApiKey": "",
+  "chatModelId": "openai-compatible",
+  "ollamaChatModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleChatModel": {
+    "baseUrl": "http://154.21.200.42:3000/v1",
+    "apiKey": "sk-FKcRZpNiyyGIANep0fB3F516E9114e0984Da797065Ac570e",
+    "model": "c35s"
+  },
+  "applyModelId": "openai-compatible",
+  "ollamaApplyModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleApplyModel": {
+    "baseUrl": "http://154.21.200.42:3000/v1",
+    "apiKey": "sk-FKcRZpNiyyGIANep0fB3F516E9114e0984Da797065Ac570e",
+    "model": "gpt-4o-mini"
+  },
+  "embeddingModelId": "gemini/text-embedding-004",
+  "ollamaEmbeddingModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "systemPrompt": "",
+  "ragOptions": {
+    "chunkSize": 1000,
+    "thresholdTokens": 8192,
+    "minSimilarity": 0,
+    "limit": 10,
+    "excludePatterns": [],
+    "includePatterns": []
+  }
+}
